@@ -10,3 +10,4 @@ objetivo do projeto: O projeto foi planejado para facilitar o gerenciamento de s
 obs: previ vários tipos de dificuldades na saída de alunos em minha escola e curso, dificuldades de monitorar a saída e justificativa, no entanto 
 no site será possível justificar a saída do aluno e o horário, assim mantendo a ordem e mantendo organizado, será organizado por ordem alfabética.
 
+persona: nome: roberto, idade: 25, altura: 1,75, personalidade: engraçado, motivos para usar o site: muitos alunos ficam pedindo para sair da sala ao mesmo tempo
