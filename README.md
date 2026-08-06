@@ -1,2 +1,2 @@
 # expert-dual
-Um site de gastronomia, papel na saúde alimentar.
+Como digitalizar o processo de registro e autorização de saída antecipada de alunos
