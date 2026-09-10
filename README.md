@@ -14,4 +14,4 @@ no site será possível justificar a saída do aluno e o horário, assim mantend
 
 persona: nome: Roberto, idade: 25, altura: 1.75, personalidade: engraçado, motivos para usar o site: muitos alunos ficam pedindo para sair da sala ao mesmo tempo, 
 roberto é professor e gosta de se manter organizado, quando um aluno o entregou um projeto quase finalizado que demonstrava um site de como organizar a saída de alunos, ele 
-adorou e já começou a usar, sua experiencia foi boa, avaliou o site muito bem em seu comentario, já que ele gosta muito de organização ele se adaptou muito rápido.  
+adorou e já começou a usar, sua experiencia foi boa, avaliou o site muito bem em seu comentário, já que ele gosta muito de organização ele se adaptou muito rápido com o site.  
